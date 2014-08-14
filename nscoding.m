@@ -1,11 +1,11 @@
 // NSCoding Protocol Methods
 // Placeholders for NSCoding protocol methods
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 37407102-93D6-4104-BA83-CF53399460DF
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// Language: Objective-C
-// Platform: All
+// IDECodeSnippetVersion: 2
 
 #pragma mark - NSCoding
 
