@@ -1,5 +1,5 @@
 // @weakify id
-// 
+// @w
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: B1D71D55-E37B-4079-955C-AB741C141AC4
